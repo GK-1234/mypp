@@ -1,0 +1,54 @@
+--- 
+cursor_positions: 
+  - :path: bin/rake
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: test/test_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/environments/production.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/initializers/mime_types.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/initializers/inflections.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/initializers/filter_parameter_logging.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/initializers/backtrace_silencers.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/environments/development.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/environments/test.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/environment.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/database.yml
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/boot.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/application.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: db/development.sqlite3
+    :cursor_offset: 0
+    :timestamp: 2013-09-02 12:02:33 -04:00
+  - :path: db/seeds.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-01 17:48:16 -04:00
+  - :path: .gitignore
+    :cursor_offset: 502
+    :timestamp: 2013-09-16 15:43:42 -04:00
+files_to_retain: 0
